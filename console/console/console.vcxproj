@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="daehyuk.cpp" />
     <ClCompile Include="jangdongchan.cpp" />
     <ClCompile Include="JungUook.cpp" />
     <ClCompile Include="MAIN.cpp" />
@@ -122,6 +123,7 @@
     <ClCompile Include="Test1111.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="daehyuk.h" />
     <ClInclude Include="Minkyun.h" />
     <ClInclude Include="Test1111.h" />
   </ItemGroup>
