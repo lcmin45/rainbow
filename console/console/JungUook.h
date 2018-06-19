@@ -7,7 +7,7 @@ class JungUook
 {
 private:
 
-	const char* str[128];
+	const char* str[128];  
 
 public:
 	JungUook();
