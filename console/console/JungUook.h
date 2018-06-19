@@ -1,5 +1,5 @@
 #pragma once
-
+#include <iostream>
 using namespace std;
 
 
@@ -13,8 +13,7 @@ public:
 	JungUook();
 	~JungUook();
 
-
-	
-	//dsadsadsadsadsa
+	void myName();
+	//しい袴たびしい袴たびしい袴たびたび
 };
 
