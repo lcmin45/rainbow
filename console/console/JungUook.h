@@ -1,5 +1,5 @@
 #pragma once
-
+#include <iostream>
 using namespace std;
 
 
@@ -8,10 +8,11 @@ class JungUook
 private:
 
 	const char* str[128];
-	
+	//asdfasdf asdf
 public:
 	JungUook();
 	~JungUook();
-	//っでっで買で買で買でぞ
+
+	void myName();
 };
 
