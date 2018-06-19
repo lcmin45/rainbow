@@ -6,7 +6,7 @@ using namespace std;
 int mina()
 {
 	cout << "葛疑濁" << endl;
-
+	//いけしけいしけいし
 	return 0;
 }
 
