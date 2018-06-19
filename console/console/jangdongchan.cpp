@@ -5,7 +5,7 @@ using namespace std;
 
 int mina()
 {
-	cout << "노동찬" << endl;
+	cout << "킹동찬" << endl;
 	//ㄴㅁㅇㅁㄴㅇㅁㄴㅇㅇ
 	//대혁아 잘좀하자
 	return 0;
