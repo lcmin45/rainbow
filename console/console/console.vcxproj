@@ -116,10 +116,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="jangdongchan.cpp" />
+    <ClCompile Include="JungUook.cpp" />
     <ClCompile Include="MAIN.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="jangdongchan.h" />
+    <ClInclude Include="JungUook.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
