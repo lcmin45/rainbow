@@ -1,10 +1,13 @@
 #include "jangdongchan.h"
+#include<iostream>
 
 using namespace std;
 
-void jangdongchan::dongchan()
+int mina()
 {
 	cout << "葛疑濁" << endl;
+	//いけしけいしけいしし
+	return 0;
 }
 
 jangdongchan::jangdongchan()
