@@ -8,7 +8,7 @@ class JungUook
 private:
 
 	const char* str[128];
-	//dsadsadsadsadsadsasad
+
 public:
 	JungUook();
 	~JungUook();
