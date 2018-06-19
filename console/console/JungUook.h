@@ -14,5 +14,6 @@ public:
 	~JungUook();
 
 	void myName();
+	//しい袴たびしい袴たびしい袴たびたび
 };
 
