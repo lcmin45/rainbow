@@ -12,5 +12,9 @@ private:
 public:
 	JungUook();
 	~JungUook();
+
+
+	
+	//dsadsadsadsadsa
 };
 
