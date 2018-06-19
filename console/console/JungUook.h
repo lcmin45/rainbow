@@ -12,5 +12,18 @@ private:
 public:
 	JungUook();
 	~JungUook();
+
+	void myName();
+	//しい袴たびしい袴たびしい袴たびたび
+
+
+
+	//けいしかいしぉ
+
+
+	//精走 五荊
+
+
+	//けいしかいぉいけしぉ
 };
 
