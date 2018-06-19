@@ -5,7 +5,7 @@ class jangdongchan
 {
 public:
 
-	virtual void dongchan();
+	void dongchan();
 
 	jangdongchan();
 	~jangdongchan();
