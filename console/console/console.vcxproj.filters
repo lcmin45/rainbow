@@ -18,12 +18,18 @@
     <ClCompile Include="MAIN.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Minkyun.cpp">
+    <ClCompile Include="jangdongchan.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="JungUook.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Minkyun.h">
+    <ClInclude Include="jangdongchan.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="JungUook.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
